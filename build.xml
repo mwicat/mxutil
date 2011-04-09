@@ -22,7 +22,6 @@
 		<property name="dir.dist" value="dist/${customization}" />
 		<property name="deploy-url" value="" />
 		<property name="vendor.dir" value="vendor" />
-		<property name="binary.libs" location="../mobimisc/dist" />
 	</target>
 	
 	<target name="test-init">
